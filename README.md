@@ -1,3 +1,5 @@
 # This is a Real Estate house coparision app.
 
-[Click Here to view the app] (https://github.com/GayathriJ-2003/Firstup-my-repo/blob/main/house.html)
+[Click Here to view the app] (https://GayathriJ-2003.github.io/Firstup-my-repo/house.html)
+
+
